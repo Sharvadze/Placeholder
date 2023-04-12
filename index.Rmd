@@ -26,7 +26,7 @@ This user manual for the SDMX Constructor provides step-by-step instructions on 
 The manual provides an in-depth understanding of SDMX Constructor's features and functionality. It is an essential resource for anyone using the tool to manage and share data following SDMX standards.
 
 ```{r front-cover, echo=FALSE, fig.align="center", fig.cap = "A screenshot of SDMX Constructor", out.width="100%"}
-knitr::include_graphics("./images/Main.png")
+knitr::include_graphics("./images/Main.png")(images/Main.png)
 ```
 
 [Click here to enlarge the image](images/Main.png)
